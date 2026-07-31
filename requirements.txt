@@ -1,0 +1,5 @@
+PyQt5>=5.15
+pyqtgraph>=0.13
+numpy>=1.22
+h5py>=3.8
+nptdms>=1.7

@@ -1,0 +1,1 @@
+python analyze_h5.py "KIGAM_50Hz_2kHz.h5" --output-dir "KIGAM_analysis"
