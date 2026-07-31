@@ -36,9 +36,6 @@ The important workflow is:
 - The `Disconnect` state is shown only after real data blocks arrive.
 - A diagnostic log and summary are written to the output folder's `log` subfolder.
 
-This addresses the v1.1.x failure mode where command success/failure could
-block recording before the long-lived UDP receiver was allowed to listen.
-
 The program listens for Dunay phase data on UDP port `8227` and reconstructs a
 matrix with shape:
 
