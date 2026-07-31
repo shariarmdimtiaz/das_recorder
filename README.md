@@ -2,7 +2,11 @@
 
 This is a desktop prototype application with a UI layout similar to the uploaded 'DAS Recorder' screenshot:
 
-# Used
+<img src="https://github.com/shariarmdimtiaz/das_recorder/blob/main/main-window.jpg"
+     alt="DAS Recorder main window"
+     width="900">
+
+## Used
 - Python
 - PyQt5
 - Dunay device
