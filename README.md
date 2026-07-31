@@ -1,7 +1,14 @@
 # Dunay DAS Recorder UI v1.3.2
 
-This is a PyQt5 desktop prototype with a UI layout similar to the uploaded DASRecorder screenshot:
+This is a desktop prototype application with a UI layout similar to the uploaded 'DAS Recorder' screenshot:
 
+# Used
+- Python
+- PyQt5
+- Dunay device
+- Optical fiber cable
+
+## Features
 - Connect area
 - Start / Stop buttons
 - Device IP / Local IP fields
