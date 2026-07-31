@@ -1,7 +1,7 @@
 # Dunay DAS Recorder UI v1.3.2
 
 This is a desktop prototype application with a UI layout similar to the uploaded 'DAS Recorder' screenshot:
-
+<p align="center">
 <img src="https://github.com/shariarmdimtiaz/das_recorder/blob/main/img/main-window.jpg"
      alt="DAS Recorder main window"
      height="600">
@@ -9,6 +9,7 @@ This is a desktop prototype application with a UI layout similar to the uploaded
 <img src="https://github.com/shariarmdimtiaz/das_recorder/blob/main/img/dunay.jpg"
      alt="DAS Recorder main window"
      height="300">
+</p>
 
 ## Used
 - Python
