@@ -2,9 +2,13 @@
 
 This is a desktop prototype application with a UI layout similar to the uploaded 'DAS Recorder' screenshot:
 
-<img src="https://github.com/shariarmdimtiaz/das_recorder/blob/main/main-window.jpg"
+<img src="https://github.com/shariarmdimtiaz/das_recorder/blob/main/img/main-window.jpg"
      alt="DAS Recorder main window"
-     width="900">
+     height="600">
+
+<img src="https://github.com/shariarmdimtiaz/das_recorder/blob/main/img/dunay.jpg"
+     alt="DAS Recorder main window"
+     height="300">
 
 ## Used
 - Python
